@@ -1,6 +1,7 @@
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/IanLuis2025/origen_inventory.git
-git push -u origin main
+* text=auto
+# git init
+# git add .
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/IanLuis2025/origen_inventory.git
+# git push -u origin main
